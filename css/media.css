@@ -1,0 +1,211 @@
+@media screen and (max-width: 1275px) {
+	.instr-block-wrap {margin: 0 5px;}
+	.sel-instr-wrap {width: 700px; margin: 0 auto;}
+	.instr-block {width: 700px}
+	.galery__item img {height: 190px; max-width: 250px}
+	.galery {justify-content: center;}
+	.testdrive:before {background: url(../img/car.png) no-repeat top -130px right -100px;}
+	.ourpark__overlay .btn {margin: 70px auto 0}
+	.ourpark-wrap {width: 1000px; margin: 0 auto;}
+	.ourpark__img {width: 314px;}
+	.ourpark-wrapper {margin: 0 10px;}
+	.vkontacte:before {background: url(../img/group-vk.png) no-repeat center right -150px;}
+	.pupils {width: 1000px; margin: 0 auto;}
+	.pupils__review {max-width: 240px;}
+	.tickets {padding-left: 20px; background: #F6F6F5 url(../img/ticket-ipad.png) no-repeat center right -80px;}
+}
+
+@media screen and (max-width: 1160px) {
+	.container {width: 1000px}
+	.notime {background: url(../img/no-time-scr.png) no-repeat center left -100px}
+	.home-bot {width: 1000px}
+	.home-bot__input {max-width: 250px}
+	.menu__item:nth-child(3) {display: none;}
+	.logo {margin-right: 25px}
+	.city select {width: 242px;}
+	.sel-instr-wrap {width: 600px; margin: 0 auto;}
+	.cat-wrap__item {margin: 10px 20px 14px}
+	.instr-block {width: 600px}
+	.program {width: 300px;}
+	.program__list {padding-left: 44px;}
+	.program .btn {margin-left: -109px;}
+	.program {margin: 0 20px 30px;}
+	.galery__item img {height: 210px !important; max-width: 190px}
+	.testdrive:before {display: none;}
+	.test__form {max-width: none}
+	.advant-wrap_1 {justify-content: space-around; flex-wrap: wrap;}
+	.advant-wrap_2 {justify-content: space-around;}
+	.autopark-title {margin-top: 15px;}
+	.autopark-wrap {margin-top: 45px;}
+	.ourpark-wrap {width: 870px; margin: 0 auto;}
+	.ourpark-wrapper {margin: 0 50px;}
+	.vkontacte {padding-left: 15px;}
+	.vkontacte:before {background: url(../img/group-vk.png) no-repeat center right -320px;}
+	.pupils {width: 900px}
+	.pupils__wrap {width: 900px;}
+	.pupils__review {max-width: 700px; padding-bottom: 50px;}
+	.tickets {background: #F6F6F5 url(../img/ticket-ipad.png) no-repeat center right -265px;}
+	.footer > .container {width: 95%}
+	.program-wrapper .program {margin: 0 15px 30px}
+	.galery-wrap img {width: 241px;	height: 241px}
+	.service {height: 241px !important}
+	.galery-wrap {width: 990px; margin: 0 auto}
+	.galery-wrap img {width: 238px;	height: 238px}
+}
+
+@media screen and (max-width: 992px) {
+	.container {width: 770px; bottom: 20px}
+	.home-bot {width: 770px}
+	.home-bot__rec {flex-direction: column; margin-top: 60px;}
+	.home-bot__input {margin: 15px 0;}
+	.homescr {padding-top: 20px;}
+	.home-bot__city {margin-left: 60px;}
+	.menu__item:nth-child(2) {display: none;}
+	.vk-link, .header .btn {display: none;}
+	.main-wrap__window:before {display: none;}
+	.main-wrap__window {margin-left: -246px;}
+	.bs-text {font-size: 55px;}
+	.bs-text span {font-size: 20px;}
+	.no-time-scr {left: 360px;}
+	.notime {background: url(../img/no-time-scr.png) no-repeat center left -300px;}
+	.sel-instr-wrap {width: 630px; margin: 0 auto;}
+	.instr-block-wrap {margin: 0 10px;}
+	.instr-block__overlay .btn {margin: 60px 0 0 50px;}
+	.instr-block__img {width: 300px;}
+	.program {margin: 0 55px 30px;}
+	.photogalery {display: none;}
+	.galery__item img {height: 120px; max-width: 190px}
+	.autopark-wrap {margin: 25px 0 0 5px;}
+	.autopark-title {padding-top: 55px; margin-top: 5px; background: none;}
+	.ourpark-wrap {width: 630px; margin: 0 auto;}
+	.ourpark-wrapper {margin: 0 10px;}
+	.ourpark__overlay .btn {margin: 76px 0 0 70px;}
+	.ourpark__img {width: 300px;}
+	.vkontacte:before {background: none;}
+	.vkontacte:after {right: 0}
+	.words-wrap {width: 95%}
+	.galery-wrap {width: 760px}
+	.galery-wrap a {margin: 6px}
+	.pupils {width: 700px}
+	.pupils__wrap {width: 700px; flex-direction: column}
+	.pupils__wrap .pupils__img {margin: 0 auto 10px}
+	.tickets {background: none;}
+	.connect {left: 50%; margin-left: -246px}
+	.footer-wrap .tel {display: none;}
+	.program-wrapper .program {margin: 0 20px 50px 50px}
+	.galery-wrap a, .galery-wrap a:nth-child(4n+1), .galery-wrap a:nth-child(4n) {margin: 6px}
+}
+
+@media screen and (max-width: 768px) {
+	.container {width: 590px}
+	.logo {margin-right: 0}
+	.home-bot {width: 590px}
+	.home-bot__city {margin-left: 0; flex-direction: column;}
+	.home-bot__span {margin-bottom: 15px;}
+	.header > .container {flex-direction: column;}
+	.header .city {margin: 15px 0;}
+	.header .tel {margin: 0 -10px 0 10px;}
+	.menu__item:nth-child(5) {display: none;}
+	.menu__item:not(:last-child) {margin-right: 25px;}
+	.slick-arrow {display: none !important}
+	.cat-wrap__item {margin: 10px 40px 14px}
+	.bs-wrap {justify-content: space-around;}
+	.bs-text {font-size: 45px; max-width: 120px}
+	.bs-text span {font-size: 18px; line-height: 5px}
+	.notime {background: none;}
+	.sel-instr-wrap {width: 500px}
+	.instr-block {width: 500px}
+	.no-time-scr {left: 20px;}
+	.red-comp {left: 450px;}
+	.program {width: 350px; margin: 0 15px 30px}
+	.program-wrap, .program-wrapper {width: 360px; margin: 0 auto;}
+	.advant-wrap_2 {flex-wrap: wrap;}
+	.ourpark-blue {display: none;}
+	.ourpark-wrap {width: 330px; margin: 0 auto;}
+	.ourpark-wrapper {max-width: 320px}
+	.ourpark__overlay .btn {margin: 75px 0 0 50px}
+	.vkontacte:after {background: none;}
+	.vk__title, .vk {width: 95%;}
+	.galery-wrap {width: 565px}
+	.galery-wrap a {margin: 20px}
+	.pupils {width: 500px}
+	.pupils__wrap {width: 500px}
+	.reviews-title {font-size: 35px;}
+	.pdd-comp, .pdd-ellipse {display: none;}
+	.footer .menu__list:before, .footer .menu__list:after {background: none}
+	.footer-wrap .city {margin-right: 10px}
+	.program-wrapper .program {margin: 0 auto 50px}
+	.galery-wrap a, .galery-wrap a:nth-child(4n+1), .galery-wrap a:nth-child(4n) {margin: 20px}
+}
+
+@media screen and (max-width: 576px) {
+	.container {width: 320px; width: 300px !important}
+	.menu-btn {display: block}
+	h2 {font-size: 32px}
+	.menu__item:nth-child(2), .menu__item:nth-child(3), .menu__item:nth-child(5) {display: block}
+	.home-bot {width: 320px; bottom: 0; top: 40vh;}
+	.home-bot select {font-size: 18px; width: 260px !important;}
+	.home-top {flex-direction: column;}
+	.home-top__logo {margin-bottom: 10px;}
+	.header .tel {font-size: 16px}
+	.homescr .btn {margin-top: 15px;}
+	.homescr .tel {font-size: 18px;}
+	.dropdown-menu {width: 300px;}
+	.dropdown-menu ul {width: 230px;}
+	.header .menu__link:hover {border-bottom: 2px solid #fff}
+	.home-bot__rec {display: none;}
+	.dropdown-menu ul li a {padding: 5px 20px}
+	.cat-wrap a {margin: auto}
+	.program {margin: 0 25px 30px;}
+	.menu__list {display: none;}
+	.minmenu {display: block}
+	.galery-wrap {width: 320px}
+	.galery-wrap a {margin: 15px 30px}
+	.main-wrap__title {margin-top: 30px}
+	.main-wrap__text {max-width: 280px; margin: 10px auto;}
+	.main-wrap__window {width: 320px;margin-left: -160px;}
+	.main-wrap__window .btn {margin-top: 15px}
+	.main-wrap__form input, .main-wrap__form select {max-width: 250px}
+	.main-wrap__form select {margin-bottom: 10px;}
+	.bluestrip {display: none;}
+	.red-comp, .ball_small, .ball_big {display: none;}
+	.program {width: 300px}
+	.ourpark-wrapper {max-width: 278px}
+	.ourpark__overlay .btn {margin: 75px 0 0 30px}
+	.sel-instr-wrap {width: 300px; margin: 0 auto;}
+	.instr-block {width: 300px; height: 100%; padding: 260px 0 15px 30px;}
+	.instr-block-1 {background: #fff url(../img/man-1.png) no-repeat top 15px center;}
+	.instr-block-2 {background: #fff url(../img/man-2.png) no-repeat top 15px center;}
+	.instr-block__text {padding: 0 20px}
+	.instr-block__photo {left: 50%; margin-left: -112px; margin-top: 15px;}
+	.program-wrap, .program-wrapper {width: 300px; margin: 0 auto;}
+	.test__text {font-size: 26px;}
+	.test__input {max-width: 280px}
+	.vkontacte {overflow-x: hidden;}
+	.vk__title {font-size: 28px;}
+	.more-btn {max-width: 280px}
+	.more-btn:after {right: 40px}
+	.joinus-title {font-size: 33px;}
+	.pupils {width: 300px}
+	.pupils__wrap {width: 300px}
+	.pupils__wrap_1 .pupils__review {padding: 160px 10px 0; background: url(../img/pupil-1.png) no-repeat top center;}
+	.pupils__wrap_2 .pupils__review {padding: 160px 10px 0; background: url(../img/pupil-2.png) no-repeat top center;}
+	.pdd__text {width: 290px}
+	.tickets .btn {max-width: 280px}
+	.ourpark-wrap {width: 320px; margin: 0 auto;}
+	.school {display: none;}
+	.connect {left: 0; margin-left: 0; width: 100%}
+	.connect__title {font-size: 25px}
+	.connect__desc {max-width: 230px; margin: 50px auto 0}
+	.footer .menu {display: none;}
+	.footer .city {margin: 30px auto 0}
+	.footer-wrap {flex-direction: column}
+	.footer-wrap .btn {margin: 30px 0; max-width: 242px}
+	.mult-logo {margin: auto}
+	.box-modal {width: 300px; padding: 30px 0; margin-left: -25px;}
+	.box-modal .main-wrap__form input, .box-modal .main-wrap__form select {width: 250px}
+	.box-modal .main-wrap__form select {margin: 0 25px 10px;}
+	.modal__close {right: 10px}
+	.pupils__review {background-position: top center !important}
+	.galery-wrap a, .galery-wrap a:nth-child(4n+1), .galery-wrap a:nth-child(4n) {margin: 10px auto}
+}
